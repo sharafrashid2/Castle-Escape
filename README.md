@@ -1,6 +1,5 @@
-Welcome to CSSI-Online
+Welcome to Castle Escape
 ======================
+Created by Sharaf Rashid, Batsheva Shekhter, Cameron Kalon
 
-This is the base template which already includes the `p5.js` library, the `p5.collide2d.js` library, and a connected `script.js`.
-
-Remember that if you need the collide library in your project, be sure to uncomment it in the `index.html`.
+Castle Escape is a single player game where the objective is to collect all the coins on the map while avoiding the enemies that are moving around. Once all the coins are collected, the player can move onto the next level. As the levels progress, the map gets more difficult with enemies increasing in number and also moving around more fast. To control the character, use W, to move up, A, to move left, S, to move down, and D, to move right. 
